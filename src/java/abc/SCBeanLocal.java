@@ -13,5 +13,5 @@ public interface SCBeanLocal {
     public Collection getItems();
    @Remove 
    public void checkout();
-    
+    //How is it?
 }
